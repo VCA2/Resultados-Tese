@@ -30,6 +30,7 @@ Os resultados finais referem-se aos dados da correlação. Cada *dataset* corres
 - ano de inicio do PPG 
 - estado
 - região
+
 Além da correlação, esses *datasets* informam a média (m), mediana (md), variância (v), desvio padrão (d) e percentual do coeficiente de variação (pc).  Consta também os *datasets* com resultados final do IMI e IPT (separada e conjuntamente).  
 
 
